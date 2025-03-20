@@ -15,7 +15,7 @@ Android app like Tinder.
 <br/>
 
 <br/>
-Dating UI kit is used for online meet up with girls and boys . The screen contains more than 30 icons and most of all required elements required to design an application like this.
+Dating UK kit is used for online meet up with girls and boys . The screen contains more than 30 icons and most of all required elements required to design an application like this.
 The XML and JAVA files contains comments at each and every point for easy understanding.
 Everything was made with a detail oriented style and followed by today's web trends. Clean coded & Layers are well-organized, carefully named, and grouped.
 Change text, colours and graphics, add or place photos.
